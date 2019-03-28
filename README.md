@@ -1,8 +1,8 @@
 # Combining satellite imagery and machine learning to predict poverty
 
-The data and code in this repository allows users to generate figures appearing in the main text of the paper ***Combining satellite imagery and machine learning to produce poverty*** (except for Figure 2, which is constructed from specific satellite images). Paper figures may differ aesthetically due to post-processing.
+ ***Combining satellite imagery and machine learning to produce poverty*** 
 
-Code was written in R 3.2.4 and Python 2.7.
+Code was written in R 3.2.4 
 
 Users of these data should cite Jean, Burke, et al. (2016). If you find an error or have a question, please submit an issue.
 
@@ -58,3 +58,7 @@ To generate Figure 5, the user needs to run
 5. (download images)
 6. extract_features.py
 7. [Figure 5.ipynb](https://github.com/kushthedude/poverty-predictor/blob/master/figures/Figure%205.ipynb)
+
+Referrence Taken From - :
+https://arxiv.org/abs/1510.00098
+http://science.sciencemag.org/content/353/6301/790
