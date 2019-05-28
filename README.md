@@ -1,5 +1,7 @@
 # Combining satellite imagery and machine learning to predict poverty
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a6d8549100b5440ba30cfbddbc996cd2)](https://app.codacy.com/app/kushthedude/Poverty-Predictor?utm_source=github.com&utm_medium=referral&utm_content=kushthedude/Poverty-Predictor&utm_campaign=Badge_Grade_Dashboard)
+
  ***Combining satellite imagery and machine learning to produce poverty*** 
 
 Code was written in R 3.2.4 
