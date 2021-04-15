@@ -32,6 +32,7 @@ Users of these data should cite Jean, Burke, et al. (2016). If you find an error
 - gridExtra
 
 The user can run the following command to automatically install the R packages
+
 ```
 install.packages(c('R.utils', 'magrittr', 'foreign', 'raster', 'readstata13', 'plyr', 'RColorBrewer', 'sp', 'lattice', 'ggplot2', 'grid', 'gridExtra'), dependencies = T)
 ```
@@ -65,4 +66,7 @@ Referrence Taken From - :
 https://arxiv.org/abs/1510.00098
 http://science.sciencemag.org/content/353/6301/790
 
-#### Made with ❤️ by @kushthedude
+#### Modified with ❤️ by @kushthedude
+
+
+This repository is a fork and an extension to original project https://github.com/nealjean/predicting-poverty
